@@ -12,7 +12,10 @@
 </div>
 
 ###
-
+<div aling="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+    
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -65,7 +68,9 @@
   </a>
 </div>
 
+
 ###
+
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1ZGNmcnQzeG44dzZweTNhcWE0enc0cXp0bWVxb3pwaHc1Y2ZyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92KgrxwgebKs7eFkqr/giphy.webp"  />
 
